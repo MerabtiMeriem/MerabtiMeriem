@@ -16,16 +16,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,latex" />
 
 </div>
- 
-##  GitHub Activity Graph
-<p align="center">
-  <img src="github-metrics-isometric.svg" />
-</p>
-
-<p align="center">
-  <img src="github-metrics-habits.svg" alt="Daily Commit Activity Graph" />
-</p>
-
 
 ## GitHub Metrics
 <p align="center">
