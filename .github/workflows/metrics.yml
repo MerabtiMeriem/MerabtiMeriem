@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: Coding habits - Charts
-        uses: lowlighter/metrics@latest
+        uses: MerabtiMeriem/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: MerabtiMeriem
@@ -25,10 +25,10 @@ jobs:
           config_timezone: Africa/Algiers
 
       - name: Coding habits - Facts
-        uses: lowlighter/metrics@latest
+        uses: MerabtiMeriem/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: YOUR_GITHUB_USERNAME
+          user: MerabtiMeriem
           filename: metrics.plugin.habits.facts.svg
           base: ""
           plugin_habits: yes
