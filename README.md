@@ -2,7 +2,17 @@
 ## tech stack
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,flask,git,github,vscode,mysql,postgres,linux,docker&perline=8" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,css" />
+
+<!-- Frameworks -->
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,flutter" />
+
+<!-- Databases -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,figma,latex" />
 
 </div>
 <!--
