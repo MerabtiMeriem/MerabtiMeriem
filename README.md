@@ -17,13 +17,30 @@
 
 </div>
 
-##  GitHub Metrics
+
+## GitHub Metrics
+
+ <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexarObs&show_icons=true&theme=tokyonight" />
+</p>
+ 
+
+
+##  GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MerabtiMeriem&theme=tokyo-night" />
+</p>
 
 <p align="center">
-  <img src="metrics.plugin.habits.charts.svg" alt="Coding Habits Charts" width="49%" />
-  <img src="metrics.plugin.habits.facts.svg" alt="Coding Habits Facts" width="49%" />
+  <img src="https://raw.githubusercontent.com/MerabtiMeriem/MerabtiMeriem/main/github-metrics-habits.svg" alt="Daily Commit Activity Graph" />
 </p>
-<!--
+
+
+## GitHub Metrics
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
+
 **MerabtiMeriem/MerabtiMeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
