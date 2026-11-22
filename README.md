@@ -15,6 +15,13 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,latex" />
 
 </div>
+
+##  GitHub Metrics
+
+<p align="center">
+  <img src="metrics.plugin.habits.charts.svg" alt="Coding Habits Charts" width="49%" />
+  <img src="metrics.plugin.habits.facts.svg" alt="Coding Habits Facts" width="49%" />
+</p>
 <!--
 **MerabtiMeriem/MerabtiMeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
