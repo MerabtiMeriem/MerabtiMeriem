@@ -16,23 +16,14 @@
 <img src="https://skillicons.dev/icons?i=git,github,figma,latex" />
 
 </div>
-
-
-## GitHub Metrics
-
- <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexarObs&show_icons=true&theme=tokyonight" />
-</p>
  
-
-
 ##  GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MerabtiMeriem&theme=tokyo-night" />
+  <img src="github-metrics-isometric.svg" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MerabtiMeriem/MerabtiMeriem/main/github-metrics-habits.svg" alt="Daily Commit Activity Graph" />
+  <img src="github-metrics-habits.svg" alt="Daily Commit Activity Graph" />
 </p>
 
 
@@ -40,11 +31,9 @@
 <p align="center">
   <img src="github-metrics.svg" />
 </p>
-
+<!--
 **MerabtiMeriem/MerabtiMeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
