@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi! 
+## tech stack
+<div align="center">
 
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nodejs,express,flask,git,github,vscode,mysql,postgres,linux,docker&perline=8" />
+
+</div>
 <!--
 **MerabtiMeriem/MerabtiMeriem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
