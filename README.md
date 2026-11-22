@@ -2,6 +2,7 @@
 ## tech stack
 <div align="center">
 
+
 <!-- Languages -->
 <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,css" />
 
