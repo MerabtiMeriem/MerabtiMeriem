@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 <!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,latex" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,latex" />
 
 </div>
 
