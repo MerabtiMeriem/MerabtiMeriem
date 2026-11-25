@@ -21,8 +21,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
-          base: header, activity, repositories, metadata
-          base_indepth: true
+          base: header, activity, repositories, community, metadata
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: percentage
@@ -44,7 +43,7 @@ jobs:
           username: MerabtiMeriem
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: github-metrics-habits.svg
-          options: bg_color=0D1117&border_color=30363D&color=C9D1D9&title_color=F0A6C1&line=D978A5&point=F4B8D0&area_color=F0A6C1&area=true&hide_border=true&days=30
+          options: bg_color=212830&border_color=30363D&color=C9D1D9&title_color=F0A6C1&line=D978A5&point=F4B8D0&area_color=F0A6C1&area=true&hide_border=true&days=30
 
       # 4. Commit generated SVG files
       - name: Commit files
